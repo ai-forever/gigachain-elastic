@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain Elastic
+# 🦜️🔗 GigaChain Elastic
 
 This repository contains 1 package with Elasticsearch integrations with LangChain:
 
